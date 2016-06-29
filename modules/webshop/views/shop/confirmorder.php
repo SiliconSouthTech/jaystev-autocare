@@ -297,7 +297,9 @@ $grandtotal = (int)$totalprice + $shippingprice ;
 												     $("#shipping_info_form").show();
 
 												});
-																	
+													$('#checkbox_8').change(function () {
+												    $('#complete_order').prop("disabled", !this.checked);
+												}).change()					
 																
 											});				
 										</script>
@@ -388,7 +390,12 @@ $grandtotal = (int)$totalprice + $shippingprice ;
 								</tr>
 								<tr>
 									<td colspan="2">
-										<button class="button_type_6 bg_scheme_color f_size_large r_corners tr_all_hover color_light m_bottom_20">Confirm Purchase</button>
+										<?php $formdata = array('name' => "pay_form", 'id'=> "pay_form", 'class'=>"checkout kl-store-checkout" ); echo form_open_multipart('bounty/save', $formdata); ?>
+											<input type="hidden" name="email" id="email" value="<?php echo str_replace("@", "_", $email);?>" />
+											<input name="ref" id="ref" type="hidden" value="<?php echo $ref;?>" />
+											<script src="https://js.paystack.co/v1/inline.js"></script>
+											<button id="complete_order" class="button_type_6 bg_scheme_color f_size_large r_corners tr_all_hover color_light m_bottom_20">Confirm Purchase</button>
+										</form>
 									</td>
 								</tr>
 							</table>
@@ -431,7 +438,9 @@ $grandtotal = (int)$totalprice + $shippingprice ;
 													<input type="text" class="r_corners d_inline_middle type_2 m_left_5 m_sm_left_0 m_xs_left_5 mxw_0 small_field" value="0">
 												</div>
 											</div>
+											
 											<button type="submit" class="r_corners button_type_4 tr_all_hover mw_0 color_dark bg_light_color_2">Submit</button>
+											
 										</form>
 									</div>
 								</div>

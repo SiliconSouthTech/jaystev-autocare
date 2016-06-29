@@ -361,6 +361,6 @@
 		} ?>
 		
 		<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5306f8f674bfda4c"></script>
-		
+		<script src="<?php echo base_url() ?>js/_custom.js"></script>
 		</body>
 </html>

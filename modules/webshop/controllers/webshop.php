@@ -499,6 +499,14 @@ class Webshop extends Shop_Controller {
   
   function checkout(){
   	$customer_id = $_SESSION['customer_id'];
+  	$ref_str = $this->MOrders->return_checked_str(10, '', array('uppercase', 'number', 'uppercase', 'lowercase')); //output 1xQRPl4ZYrP6FBO)
+    //$ref = $this->generateRef->return_ref_val();
+    $email = $_SESSION['email'];  
+     
+    $data['ref'] = $ref_str;
+    
+                    
+    $data['data_resp'] = $this->MOrders->return_payment_info($customer_id);
 
   	
 
