@@ -1542,3 +1542,7 @@ ERROR - 2016-06-29 11:58:51 --> 404 Page Not Found --> webshop/images
 ERROR - 2016-06-29 11:58:51 --> 404 Page Not Found --> webshop/images
 ERROR - 2016-06-29 11:58:51 --> 404 Page Not Found --> webshop/images
 ERROR - 2016-06-29 11:58:51 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 12:46:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 12:46:10 --> 404 Page Not Found --> 
+ERROR - 2016-06-29 12:51:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 12:51:22 --> 404 Page Not Found --> 
