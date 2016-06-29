@@ -1546,3 +1546,509 @@ ERROR - 2016-06-29 12:46:09 --> Severity: 8192  --> mysql_pconnect(): The mysql 
 ERROR - 2016-06-29 12:46:10 --> 404 Page Not Found --> 
 ERROR - 2016-06-29 12:51:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
 ERROR - 2016-06-29 12:51:22 --> 404 Page Not Found --> 
+ERROR - 2016-06-29 13:05:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:05:26 --> BackendPro->Status->set : Invalid status message type: fail
+ERROR - 2016-06-29 13:05:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:05:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:05:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:05:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:05:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:05:27 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:05:27 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:05:27 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:05:27 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:05:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:05:31 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:11:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:12:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:12:24 --> Severity: Notice  --> Undefined variable: cap_img /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/contact.php 46
+ERROR - 2016-06-29 13:12:24 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Applications/MAMP/htdocs/cart_backup/system/application/libraries/Loader.php 929
+ERROR - 2016-06-29 13:12:24 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/application/views/shop/container.php:50) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:12:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:12:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:12:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:12:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:12:25 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:12:25 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:12:25 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:12:25 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:13:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:13:08 --> Severity: Notice  --> Undefined variable: cap_img /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/contact.php 46
+ERROR - 2016-06-29 13:13:08 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Applications/MAMP/htdocs/cart_backup/system/application/libraries/Loader.php 929
+ERROR - 2016-06-29 13:13:08 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/application/views/shop/container.php:50) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:13:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:13:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:13:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:13:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:13:08 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:13:08 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:13:08 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:13:08 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:15:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:26 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:15:27 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:15:27 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:15:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:27 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:15:27 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:15:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:43 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:15:43 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:15:43 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:15:43 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:15:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:15:46 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:16:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:16:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:16:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:16:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:16:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:16:23 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:16:23 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:16:23 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:16:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:16:23 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:16:23 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:17:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:26 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:17:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:26 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:17:26 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:17:26 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:17:26 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:17:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:49 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:17:49 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:17:49 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:17:49 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:17:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:17:49 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:21:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:21:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:21:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:21:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:21:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:21:19 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:21:20 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:21:20 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:21:20 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:21:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:21:20 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:26:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:26:58 --> 404 Page Not Found --> 
+ERROR - 2016-06-29 13:27:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:00 --> 404 Page Not Found --> 
+ERROR - 2016-06-29 13:28:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:28:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:30:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:30:26 --> 404 Page Not Found --> 
+ERROR - 2016-06-29 13:33:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:33:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:33:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:33:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:33:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:33:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:36:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:36:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:36:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:36:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:36:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:36:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:45:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:45:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:45:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:45:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:45:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:46:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:46:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:46:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:46:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:46:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:46:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:46:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:08 --> 404 Page Not Found --> 
+ERROR - 2016-06-29 13:47:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:20 --> 404 Page Not Found --> 
+ERROR - 2016-06-29 13:47:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:47:26 --> 404 Page Not Found --> 
+ERROR - 2016-06-29 13:48:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:48:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:48:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:48:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:48:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:48:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:48:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:48:10 --> 404 Page Not Found --> 
+ERROR - 2016-06-29 13:49:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:49:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:49:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:49:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:49:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:49:26 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:49:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:49:26 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:49:26 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:49:26 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:49:26 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:52:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:52:21 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:52:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:52:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:52:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:52:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:52:22 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:52:22 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:52:22 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:52:22 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:52:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:52:22 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:53:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:53:25 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:53:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:53:50 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:54:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:54:21 --> Severity: Notice  --> Undefined index: firstname /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 1
+ERROR - 2016-06-29 13:54:21 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Applications/MAMP/htdocs/cart_backup/system/application/libraries/Loader.php 929
+ERROR - 2016-06-29 13:54:21 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/application/views/shop/container.php:50) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:54:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:54:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:54:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:54:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:54:22 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:54:22 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:54:22 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:54:22 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:55:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:55:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:55:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:55:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:55:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:55:07 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:55:07 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:55:07 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:55:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:55:07 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:55:07 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:55:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:55:34 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:55:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:55:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:57:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:57:04 --> Severity: Notice  --> Undefined index: firstname /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php 542
+ERROR - 2016-06-29 13:57:04 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:57:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:57:20 --> Severity: Notice  --> Array to string conversion /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php 542
+ERROR - 2016-06-29 13:57:20 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:58:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:58:11 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 13:58:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:58:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:58:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:58:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:58:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:58:38 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:58:38 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:58:38 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:58:39 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:59:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:59:22 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 13:59:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:59:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:59:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:59:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:59:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:59:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:59:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:59:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:59:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 13:59:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 13:59:55 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 14:00:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:00:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:00:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:00:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:00:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:00:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:00:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:00:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:00:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:00:56 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:00:56 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 14:06:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:06:18 --> Severity: Notice  --> Undefined index:  /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 64
+ERROR - 2016-06-29 14:06:18 --> Severity: Notice  --> Undefined index: title /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 73
+ERROR - 2016-06-29 14:06:18 --> Severity: Notice  --> Undefined index: title /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 74
+ERROR - 2016-06-29 14:06:18 --> Severity: Notice  --> Undefined index: title /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 75
+ERROR - 2016-06-29 14:06:18 --> Severity: Notice  --> Undefined index: title /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 76
+ERROR - 2016-06-29 14:06:18 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Applications/MAMP/htdocs/cart_backup/system/application/libraries/Loader.php 929
+ERROR - 2016-06-29 14:06:18 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/application/views/shop/container.php:50) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 14:06:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:06:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:06:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:06:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:06:18 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:06:18 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:06:18 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:06:18 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:08:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:08:37 --> Severity: Notice  --> Undefined index:  /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 64
+ERROR - 2016-06-29 14:08:37 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Applications/MAMP/htdocs/cart_backup/system/application/libraries/Loader.php 929
+ERROR - 2016-06-29 14:08:37 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/application/views/shop/container.php:50) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 14:08:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:08:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:08:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:08:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:08:38 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:08:38 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:08:38 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:08:38 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:09:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:09:58 --> Severity: Notice  --> Undefined offset: 0 /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php 542
+ERROR - 2016-06-29 14:09:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 14:10:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:10:58 --> Severity: Notice  --> Undefined offset: 0 /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php 542
+ERROR - 2016-06-29 14:10:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php:541) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 14:11:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:11:22 --> Severity: Notice  --> Undefined index:  /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 64
+ERROR - 2016-06-29 14:11:22 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Applications/MAMP/htdocs/cart_backup/system/application/libraries/Loader.php 929
+ERROR - 2016-06-29 14:11:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/application/views/shop/container.php:50) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 14:11:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:11:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:11:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:11:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:11:23 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:11:23 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:11:23 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:11:23 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:29 --> Severity: Notice  --> Undefined index:  /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 64
+ERROR - 2016-06-29 14:12:29 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Applications/MAMP/htdocs/cart_backup/system/application/libraries/Loader.php 929
+ERROR - 2016-06-29 14:12:29 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/application/views/shop/container.php:50) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 14:12:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:30 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:30 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:30 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:30 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:31 --> Severity: Notice  --> Undefined index:  /Applications/MAMP/htdocs/cart_backup/modules/webshop/views/shop/confirmorder.php 64
+ERROR - 2016-06-29 14:12:31 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Applications/MAMP/htdocs/cart_backup/system/application/libraries/Loader.php 929
+ERROR - 2016-06-29 14:12:31 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/application/views/shop/container.php:50) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 14:12:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:32 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:32 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:32 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:32 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:55 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:12:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:12:55 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 14:13:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:13:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:13:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:13:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:13:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:13:59 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:13:59 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:13:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:13:59 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:13:59 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:13:59 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 14:19:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:19:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:19:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:19:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:19:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:19:45 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:19:45 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:19:45 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:19:46 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:19:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:19:46 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 14:20:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:20:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:20:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:20:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:20:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:20:16 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:20:16 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:20:17 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:20:17 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:20:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:20:17 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 14:27:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:25 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:27:25 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:27:25 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:27:25 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:27:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:28 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 14:27:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:56 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:27:56 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:27:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 14:27:56 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:27:56 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 14:27:56 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 15:07:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:07:57 --> Severity: Warning  --> Missing argument 1 for Webshop::checkout() /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php 500
+ERROR - 2016-06-29 15:07:57 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/libraries/Exceptions.php:166) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 15:07:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:07:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:07:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:07:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:07:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:07:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:08:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:08:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:08:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:08:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:08:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:10:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:13 --> Severity: Warning  --> Missing argument 1 for Webshop::checkout() /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php 500
+ERROR - 2016-06-29 15:11:13 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/libraries/Exceptions.php:166) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 15:11:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:14 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:11:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:14 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:11:14 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:11:14 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:11:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:14 --> Severity: Warning  --> Missing argument 1 for Webshop::checkout() /Applications/MAMP/htdocs/cart_backup/modules/webshop/controllers/webshop.php 500
+ERROR - 2016-06-29 15:11:14 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/cart_backup/system/libraries/Exceptions.php:166) /Applications/MAMP/htdocs/cart_backup/system/libraries/Output.php 230
+ERROR - 2016-06-29 15:11:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:14 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 15:11:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:15 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:11:15 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:11:15 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:11:16 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:11:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:11:38 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 15:12:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:48 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:12:48 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:12:48 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:12:48 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:12:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:48 --> 404 Page Not Found --> webshop/twitter
+ERROR - 2016-06-29 15:12:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:12:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:26:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:26:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:26:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:26:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:26:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:26:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:26:21 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:26:21 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:26:21 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:26:21 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:27:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:27:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:27:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:27:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:27:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:27:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:27:52 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:27:52 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:27:52 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:27:52 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:28:01 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:28:01 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:28:01 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:28:01 --> 404 Page Not Found --> webshop/images
+ERROR - 2016-06-29 15:29:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/cart_backup/system/database/drivers/mysql/mysql_driver.php 88
+ERROR - 2016-06-29 15:29:14 --> 404 Page Not Found --> webshop/twitter

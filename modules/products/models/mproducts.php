@@ -11,7 +11,7 @@ class MProducts extends Model{
  		// getting info of single product.
 	    $data = array();
 	    //$options = array('part_number' => id_clean($id));
-	    $this->db->where('part_number', id_clean($id));
+	    $this->db->where('part_number', $id);
 	    $Q = $this->db->get('omc_product');
 	    if ($Q->num_rows() > 0){
 	      	$data = $Q->row_array();

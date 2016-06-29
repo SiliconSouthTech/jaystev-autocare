@@ -348,6 +348,7 @@ class MOrders extends Model{
 	 {
 	 	$data = array('customer_id' => $customer_id,
 	 					'company_name' => $this->input->post('company_name'),
+	 					'title' => $this->input->post('title'),
 						'firstname' => $this->input->post('firstname'),
 						'midname' => $this->input->post('midname'),
 						'lastname' => $this->input->post('lastname'),
@@ -410,10 +411,12 @@ class MOrders extends Model{
 	 	$this->db->where('customer_id', $customer_id);
 	 	$Q = $this->db->get('omc_billing_info');
 	 	if ($Q->num_rows() > 0){
-	 				$Q->free_result(); 
-					return $Q->result_array();
+					foreach ($Q->result_array() as $row){
+						$data = $row;
+					}
 				}
-		   
+		   $Q->free_result();  
+		   return $data;
 	 }
 	 
 }//end class

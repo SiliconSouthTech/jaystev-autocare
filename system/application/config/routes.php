@@ -54,6 +54,7 @@ $route['register'] = 'webshop/registration';
 $route['registration'] = 'webshop/registration';
 $route['cart'] = 'webshop/cart';
 $route['product'] = 'webshop/product';
+$route['contact'] = 'webshop/contact';
 
 /* End of file routes.php */
 /* Location: ./system/application/config/routes.php */

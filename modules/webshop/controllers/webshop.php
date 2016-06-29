@@ -137,7 +137,7 @@ class Webshop extends Shop_Controller {
   function contact(){
 	  	
 		$data['title'] = lang('webshop_shop_name')." | "."Contact us";
-		$data['cap_img'] = $this->_generate_captcha();	
+		//$data['cap_img'] = $this->_generate_captcha();	
 		$data['page'] = $this->config->item('backendpro_template_shop') . 'contact';
 		$data['module'] = lang('webshop_folder');
 		$this->load->view($this->_container,$data);
@@ -538,10 +538,20 @@ class Webshop extends Shop_Controller {
 	$billing_info = $this->MOrders->getBillingInfo($customer_id);
 	$data['billing_info'] = $billing_info;
 
+
+
 	
 	
 	$data['module'] = lang('webshop_folder');
 	if ($this->uri->segment(2) == 'step2') {
+		//redirect to step one if step 2 is not completed
+		if (empty($create_shipping)) {
+			redirect('checkout');
+		}
+		//get the just saved shipping data
+		$shipping_info = $this->MOrders->getShippingInfo($create_shipping);
+		$data['shipping_info'] = $shipping_info;
+		print_r($shipping_info);
   		$data['page'] = $this->config->item('backendpro_template_shop') . 'confirmorder2';
   	}
 	$this->load->view($this->_container,$data);
@@ -871,7 +881,7 @@ class Webshop extends Shop_Controller {
 		$create_shipping = $this->MOrders->createOrder($shipping_id,$customer_id,$totalprice,$shipping_check);
 		//redirecting 
 		$data['shipping_id'] = $create_shipping;
-		redirect('webshop/checkout#tab-2', $data);
+		redirect('webshop/checkout#tab-2', $create_shipping);
 		
 	} 
 	else{

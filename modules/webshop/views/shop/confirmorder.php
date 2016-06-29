@@ -60,22 +60,26 @@ $grandtotal = (int)$totalprice + $shippingprice ;
 										<?php echo form_open(lang('webshop_folder')."/insert_bill"); ?>
 											<ul>
 												<li class="m_bottom_15">
+													<label for="company_name" class="d_inline_b m_bottom_5">Company Name</label>
+													<input type="text" id="company_name" name="company_name" class="r_corners full_width" value="<?php if(isset($billing_info['company_name'])){ echo $billing_info['company_name']; }else{echo set_value('company_name');} ?>" required="required" size="30">
+												</li>
+												<li class="m_bottom_15">
 													<label class="d_inline_b m_bottom_5">Title</label>
 													<!--product name select-->
 													<div class="custom_select relative">
-														<div class="select_title type_2 r_corners relative color_dark mw_0">Select </div>
+														<div class="select_title type_2 r_corners relative color_dark mw_0"><?php if (isset($billing_info['title'])) {
+															echo $billing_info['title'];
+														} else{
+															echo 'Select';
+														} ?> </div>
 														<ul class="select_list d_none"></ul>
 														<select name="title">
-															<option value="Mr">Mr</option>
-															<option value="Mrs">Mrs</option>
-															<option value="Ms">Ms</option>
-															<option value="Miss">Miss</option>
+															<option <?php if ($billing_info['title'] == 'Mr' ) echo 'selected' ; ?> value="Mr">Mr</option>
+															<option <?php if ($billing_info['title'] == 'Mrs' ) echo 'selected' ; ?> value="Mrs">Mrs</option>
+															<option <?php if ($billing_info['title'] == 'Ms' ) echo 'selected' ; ?> value="Ms">Ms</option>
+															<option <?php if ($billing_info['title'] == 'Miss' ) echo 'selected' ; ?> value="Miss">Miss</option>
 														</select>
 													</div>
-												</li>
-												<li class="m_bottom_15">
-													<label for="company_name" class="d_inline_b m_bottom_5">Company Name</label>
-													<input type="text" id="company_name" name="company_name" class="r_corners full_width" value="<?php if(isset($company_name)){ echo $company_name; }else{echo set_value('company_name');} ?>" required="required" size="30">
 												</li>
 												<li class="m_bottom_15">
 													<label for="firstname" class="d_inline_b m_bottom_5 required">First Name</label>
@@ -83,32 +87,36 @@ $grandtotal = (int)$totalprice + $shippingprice ;
 												</li>
 												<li class="m_bottom_15">
 													<label for="lastname" class="d_inline_b m_bottom_5 required">Last Name</label>
-													<input type="text" id="lastname" required="required" name="lastname" value="<?php if(isset($lastname)){echo $lastname;}else{echo set_value('lastname');}?>" class="r_corners full_width">
+													<input type="text" id="lastname" required="required" name="lastname" value="<?php if(isset($billing_info['lastname'])){echo $billing_info['lastname'];}else{echo set_value('lastname');}?>" class="r_corners full_width">
 												</li>
 												<li class="m_bottom_15">
 													<label for="address_1" class="d_inline_b m_bottom_5 required">Address 1</label>
-													<input type="text" id="address_1" name="address_1" value="<?php if(isset($address_1)){echo $address_1;}else{echo set_value('address_1');}?>" class="r_corners full_width">
+													<input type="text" id="address_1" name="address_1" value="<?php if(isset($billing_info['address_1'])){echo $billing_info['address_1'];}else{echo set_value('address_1');}?>" class="r_corners full_width">
 												</li>
 												<li class="m_bottom_15">
 													<label for="address_2" class="d_inline_b m_bottom_5 required">Address 2</label>
-													<input type="text" id="address_2" name="address_2" value="<?php if(isset($address_2)){echo $address_2;}else{echo set_value('address_2');}?>" class="r_corners full_width">
+													<input type="text" id="address_2" name="address_2" value="<?php if(isset($billing_info['address_2'])){echo $billing_info['address_2'];}else{echo set_value('address_2');}?>" class="r_corners full_width">
 												</li>
 												<li class="m_bottom_15">
 													<label for="zip" class="d_inline_b m_bottom_5">Zip / Postal Code</label>
-													<input type="text" id="zip" name="zip" value="<?php if(isset($zip)){echo $zip;}else{echo set_value('zip');}?>" class="r_corners full_width">
+													<input type="text" id="zip" name="zip" value="<?php if(isset($billing_info['zip'])){echo $billing_info['zip'];}else{echo set_value('zip');}?>" class="r_corners full_width">
 												</li>
 												<li class="m_bottom_15">
 													<label for="city" class="d_inline_b m_bottom_5 required">City</label>
-													<input type="text" id="city" name="city" value="<?php if(isset($city)){echo $city;}else{echo set_value('city');}?>" class="r_corners full_width">
+													<input type="text" id="city" name="city" value="<?php if(isset($billing_info['city'])){echo $billing_info['city'];}else{echo set_value('city');}?>" class="r_corners full_width">
 												</li>
 												<li class="m_bottom_15">
 													<label for="state" class="d_inline_b m_bottom_5 required">State</label>
 													<!--product name select-->
 													<div class="custom_select relative">
-														<div class="select_title type_2 r_corners relative color_dark mw_0">Please select</div>
+														<div class="select_title type_2 r_corners relative color_dark mw_0"><?php if (isset($billing_info['state'])) {
+															echo $billing_info['state'];
+														} else{
+															echo 'Please select';
+														} ?></div>
 														<ul class="select_list d_none"></ul>
-														<select id="state" name="state" value="<?php if(isset($state)){echo $state;}else{echo set_value('state');}?>">
-															<option></option>
+														<select id="state" name="state" value="<?php if(isset($billing_info['state'])){echo $billing_info['state'];}else{echo set_value('state');}?>">
+															
 						                                                	<option>Abia</option>
 																			<option>Adamawa</option>
 																			<option>Akwa Ibom</option>
@@ -151,11 +159,11 @@ $grandtotal = (int)$totalprice + $shippingprice ;
 												</li>
 												<li class="m_bottom_15">
 													<label for="phone" class="d_inline_b m_bottom_5 required">Phone</label>
-													<input type="text" id="phone" name="phone" value="<?php if(isset($phone)){ echo $phone;}else{echo set_value('phone');}?>"  class="r_corners full_width">
+													<input type="text" id="phone" name="phone" value="<?php if(isset($billing_info['phone'])){ echo $billing_info['phone'];}else{echo set_value('phone');}?>"  class="r_corners full_width">
 												</li>
 												<li class="m_bottom_15">
 													<label for="phone_2" class="d_inline_b m_bottom_5">Mobile Phone</label>
-													<input type="text" id="phone_2" name="phone_2" value="<?php if(isset($phone_2)){echo $phone_2;}else{echo set_value('phone_2');}?>" class="r_corners full_width">
+													<input type="text" id="phone_2" name="phone_2" value="<?php if(isset($billing_info['phone_2'])){echo $billing_info['phone_2'];}else{echo set_value('phone_2');}?>" class="r_corners full_width">
 												</li>
 												<br>
 												<li><button type="submit" class="button_type_4 r_corners bg_scheme_color color_light tr_all_hover">Submit & Next</button>
@@ -172,12 +180,26 @@ $grandtotal = (int)$totalprice + $shippingprice ;
 												</li>
 										<tagi id="shipping_info_form">
 												<li class="m_bottom_15">
-													<label for="shippingname" class="d_inline_b m_bottom_5">Shipping Title</label>
-													<input type="text" id="shippingname" name="shippingname" class="r_corners full_width">
-												</li>
-												<li class="m_bottom_15">
 													<label for="shippingCompanyname" class="d_inline_b m_bottom_5">Company Name</label>
 													<input type="text" id="shippingCompanyname" name="shippingCompanyname" class="r_corners full_width">
+												</li>
+												<li class="m_bottom_15">
+													<label class="d_inline_b m_bottom_5">Shipping Title</label>
+													<!--product name select-->
+													<div class="custom_select relative">
+														<div class="select_title type_2 r_corners relative color_dark mw_0"><?php if (isset($billing_info['title'])) {
+															echo $billing_info['title'];
+														} else{
+															echo 'Select';
+														} ?> </div>
+														<ul class="select_list d_none"></ul>
+														<select id="shippingname" name="shippingname">
+															<option <?php if ($billing_info['title'] == 'Mr' ) echo 'selected' ; ?> value="Mr">Mr</option>
+															<option <?php if ($billing_info['title'] == 'Mrs' ) echo 'selected' ; ?> value="Mrs">Mrs</option>
+															<option <?php if ($billing_info['title'] == 'Ms' ) echo 'selected' ; ?> value="Ms">Ms</option>
+															<option <?php if ($billing_info['title'] == 'Miss' ) echo 'selected' ; ?> value="Miss">Miss</option>
+														</select>
+													</div>
 												</li>
 												<li class="m_bottom_15">
 													<label for="shippingFirstname" class="d_inline_b m_bottom_5">First Name</label>
@@ -333,14 +355,6 @@ $grandtotal = (int)$totalprice + $shippingprice ;
 									<td colspan="2">
 										<label for="notes" class="d_inline_b m_bottom_5">Notes and special requests:</label>
 										<textarea id="notes" class="r_corners notes full_width"></textarea>
-									</td>
-								</tr>
-								<tr class="hidden">
-									<td class="t_align_r">
-										<p class="f_size_large fw_medium">Coupon Discount:</p>
-									</td>
-									<td>
-										<p class="f_size_large fw_medium color_dark">$-74.96</p>
 									</td>
 								</tr>
 								<tr>
