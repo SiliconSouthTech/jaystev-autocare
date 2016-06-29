@@ -4620,3 +4620,8 @@ ul.ul-bout li:hover{
     padding: 50px;
     float: none;
 }
+
+.center_contact {
+    margin: auto;
+    float: none;
+}
